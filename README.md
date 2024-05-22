@@ -1,7 +1,7 @@
 ![image](https://github.com/skylarbsandler/skylarbsandler/blob/main/header.png)
 
-## About 
-Thanks for dropping by! I am a software developer currently enrolled in the Launch Program at the Turing School of Software & Design.
+## About Me
+Thanks for dropping by! I am a software developer and a graduate of the Launch Program at the Turing School of Software & Design.
 
  <a href="https://www.linkedin.com/in/skylarbsandler/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
