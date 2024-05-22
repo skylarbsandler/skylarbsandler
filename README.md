@@ -25,7 +25,7 @@ TasteBuddies is an ASP.NET web app designed to help answer the age-old question:
 - Designed and built using agile development including working in sprints, daily standups, story grooming, code reviews, and team retros
 - Planned using wireframes and user stories, as well as a GitHub Project Board
 
-[**Resume Revamp**](https://github.com/skylarbsandler/ResumeRevamp))
+[**Resume Revamp**](https://github.com/skylarbsandler/ResumeRevamp)
 
 Resume Revamp is a ASP.NET web app that aims to solve the problem of helping job seekers create more impactful and compelling resumes using 3rd Party API calls to WordsAPI. This app helps you effortlessly find powerful synonyms and expertly craft your professional documents, making you stand out in the competitive job market.
 - Designed and built using agile development including working in sprints, daily standups, and story grooming
